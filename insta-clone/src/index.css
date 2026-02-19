@@ -1,0 +1,73 @@
+.logotext{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 0px;
+}
+
+.bii{
+    margin-right: 10px;
+}
+
+.ho:hover{
+    background-color: rgb(181, 178, 178);
+    width: 130px;
+    border-radius: 5px;
+    padding: 0;
+}
+
+
+.profile-img {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+
+.story{
+    margin-top: 30px;
+    height: 70px;
+
+ 
+}
+.button{
+    margin-top: 60px;
+    margin-left: 200px;
+
+}
+.sid{
+    
+   
+}
+.body:hover{
+    background-color: rgb(173, 172, 172);
+    border-radius: 10px;   
+}
+
+.messi{
+    padding-left: 20px;
+    padding-top: 4px;
+}
+.he{
+    position: fixed;
+}
+
+.footericon{
+    padding: "2px" ;
+    display:flex;
+     gap:10px;
+}
+.sug{
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 60px;
+    position: fixed;
+}
+
+.userhover:hover{
+    background-color: rgb(212, 213, 213);
+    border-radius: 5px;
+}
+
+.savevy{
+   margin-left: 420px;
+   
+}
